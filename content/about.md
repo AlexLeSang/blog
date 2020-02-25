@@ -2,7 +2,7 @@
 title: "About"
 date: 2020-02-25T22:29:31+01:00
 menu: "main"
-draft: true
+draft: false
 ---
 
 # Who am I?
@@ -16,5 +16,3 @@ This is my personal blog where I put my thoughts.
 # Whom is this for?
 
 Mostly for me but everyone is welcome to read.
-
-
