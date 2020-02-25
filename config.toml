@@ -1,0 +1,4 @@
+baseURL = "https://www.oleksandrhalushko.nl/"
+languageCode = "en-us"
+title = "Stumbling in Codes: software delopment and related"
+theme = "ananke"
