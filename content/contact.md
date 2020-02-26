@@ -8,6 +8,6 @@ draft: false
 If you want to get in touch just say 'Hi!' any time.
 
 You can do that at:
-- alexlesang@gmail.com
+- [Mail](mailto:alexlesang@gmail.com)
 - [Github](https://github.com/AlexLeSang/)
 - [LinkedIn](https://www.linkedin.com/in/oleksandrhalushko/) 
