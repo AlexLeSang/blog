@@ -4,9 +4,3 @@
 [submodule "themes/hermit"]
 	path = themes/hermit
 	url = https://github.com/Track3/hermit.git
-[submodule "themes/somrat"]
-	path = themes/somrat
-	url = https://github.com/Somrat37/somrat.git
-[submodule "themes/zzo"]
-	path = themes/zzo
-	url = https://github.com/zzossig/hugo-theme-zzo.git
