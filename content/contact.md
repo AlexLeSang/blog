@@ -10,4 +10,4 @@ If you want to get in touch just say 'Hi!' any time.
 You can do that at:
 - alexlesang@gmail.com
 - [Github](https://github.com/AlexLeSang/)
-- [Linkedin](https://www.linkedin.com/in/oleksandrhalushko/) 
+- [LinkedIn](https://www.linkedin.com/in/oleksandrhalushko/) 

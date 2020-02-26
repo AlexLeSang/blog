@@ -1,0 +1,15 @@
+* Topics
+
+** TODO Exercism: C++ mentor
+** Type pattern in Rust, in C++
+** S-expression from Lisp: what is that and what C++ has to offer
+** Command queue and how it plays with cppcoro
+** Programming 'Flow'; unit tests feedback and related
+
+* Site improvements
+
+  
+** Fix text alignment: make it by with, centered
+** Choose a different theme
+** Set a schedule for writing articles
+ 
