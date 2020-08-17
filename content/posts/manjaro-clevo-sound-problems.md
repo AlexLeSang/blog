@@ -2,7 +2,7 @@
 title: "Manjaro; Clevo Laptop; No Sound"
 date: 2020-04-27T12:23:40+02:00
 draft: true
-toc: false
+toc: true
 images:
 tags: ["clevo", "manjaro", "linux", "sound"]
 ---
@@ -69,7 +69,7 @@ card 0: PCH [HDA Intel PCH], device 1: ALC1220 Digital [ALC1220 Digital]
   Subdevice #0: subdevice #0
 ```
 
-#### `lsmod | grep snd_hda`
+### `lsmod | grep snd_hda`
 
 ```
 snd_hda_codec_realtek   126976  1
