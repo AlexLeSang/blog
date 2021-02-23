@@ -1,7 +1,7 @@
 ---
 title: "Manjaro 20.1 Clevo Sound Problems Linux 5.8.0-2-MANJARO"
 date: 2020-08-17T08:45:43+02:00
-draft: true
+draft: false
 toc: true
 images: 
 tags: ["clevo", "manjaro", "linux", "sound"]

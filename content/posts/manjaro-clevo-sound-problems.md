@@ -1,7 +1,7 @@
 ---
 title: "Manjaro; Clevo Laptop; No Sound"
 date: 2020-04-27T12:23:40+02:00
-draft: true
+draft: false
 toc: true
 images:
 tags: ["clevo", "manjaro", "linux", "sound"]
